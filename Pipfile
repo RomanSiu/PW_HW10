@@ -9,6 +9,7 @@ psycopg2 = "*"
 beautifulsoup4 = "*"
 requests = "*"
 lxml = "*"
+django-environ = "*"
 
 [dev-packages]
 
